@@ -1,11 +1,6 @@
-## My Project
+## VPC Endpoint Workshop
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+This workshop illustrates mechanisms to use and secure VPC Endpoints on AWS.  Step by Step instructions for completing this lab can be found at www.vpcendpointworkshop.com 
 
 ## License
 
