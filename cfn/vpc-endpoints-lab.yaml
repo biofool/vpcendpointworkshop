@@ -682,7 +682,7 @@ Resources:
   UnrestrictedS3Bucket:
     Type: AWS::S3::Bucket
     Properties:
-      BucketName: !Sub '${AWS::AccountId}-${AWS::StackName}-${AWS::Region}-unrestrictedbucket'
+      BucketName: !Sub '${AWS::AccountId}-${AWS::StackName}-${AWS::Region}-urb'
       AccessControl: 'Private' 
       BucketEncryption:
         ServerSideEncryptionConfiguration: 
